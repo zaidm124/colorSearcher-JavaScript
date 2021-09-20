@@ -1,0 +1,71 @@
+.body {
+  border: 1px solid black;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 100px;
+}
+.input {
+  text-align: center;
+}
+
+.colors {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+.color {
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  /* background-color: red; */
+}
+
+.one {
+  background-color: red;
+}
+.two {
+  background-color: rgb(200, 20, 0);
+}
+
+.three {
+  background-color: rgb(255, 138, 138);
+}
+
+.four {
+  background-color: blue;
+}
+.five {
+  background-color: lightblue;
+}
+.six {
+  background-color: darkblue;
+}
+.seven {
+  background-color: lightsteelblue;
+}
+.eight {
+  background-color: green;
+}
+.nine {
+  background-color: greenyellow;
+}
+.ten {
+  background-color: darkgreen;
+}
+.eleven {
+  background-color: yellow;
+}
+.twelve {
+  background-color: yellowgreen;
+}
+.thirteen {
+  background-color: rgb(207, 207, 4);
+}
+.disp {
+  display: none;
+}
+.visible{
+    display: block;
+}
